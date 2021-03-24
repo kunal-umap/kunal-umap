@@ -11,9 +11,12 @@
 
 - 📫 How to reach me **kunalgumap@gmail.com**
 
+- 🤔 I'm Currently **BEGINEER**
+
 - 😄 Pronouns: He/His
 
 - ⚡ Fun fact **I actually don't know what to write here!!!!**
+<h5 align="center">Check Out My Web Devlopment work on codepen </h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
