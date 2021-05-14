@@ -7,7 +7,7 @@
 <!-- 👯 I’m looking to collaborate on .../-->
 <!-- 🤔 I’m looking for help with ...-->
 
-- 💬 Ask me about **C/C++,HTML/CSS.......And Teck Stuf**
+- 💬 Ask me about **C/C++,HTML/CSS/JS.......And Teck Stuf**
 
 - 📫 How to reach me **kunalgumap@gmail.com**
 
