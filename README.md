@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kunal Umap</h1>
 <h3 align="center">Good Learner Trying To Do Something New!!! </h3>
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=kunal-umap&label=Profile%20views&color=0e75b6&style=flat"
+    alt="kunal-umap"
+  />
+</p>
+
 - 🔭 I’m currently working on My Improvement
 
 - 🌱 I’m currently learning **Web Devlopement ,C++,DS & Algo**
@@ -16,7 +23,7 @@
 - 😄 Pronouns: He/His
 
 - ⚡ Fun fact **I actually don't know what to write here!!!!**
-<h5 align="center">Check Out My Web Devlopment work on codepen </h5>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/kunal-umap" target="blank"
@@ -182,3 +189,34 @@
   </a>
 </p>
 
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-umap&show_icons=true&locale=en&layout=compact"
+    alt="kunal-umap"
+  />
+</p>
+
+<p align="center">
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=kunal-umap&show_icons=true&locale=en"
+    alt="kunal-umap"
+  />
+</p>
+
+<p align="center" >
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-umap&"
+    alt="kunal-umap"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=kunal-umap"
+      alt="kunal-umap"
+  /></a>
+</p>
