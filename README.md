@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently working on My Improvement
 
-- 🌱 I’m currently learning **Web Devlopement ,C++,DS & Algo**
+- 🌱 I’m currently learning **Mearn Stack, Python for ML**
 <!-- 👯 I’m looking to collaborate on .../-->
 <!-- 🤔 I’m looking for help with ...-->
 
-- 💬 Ask me about **C/C++,HTML/CSS/JS(+React).......And Teck Stuf**
+- 💬 Ask me about **C/C++,Java,HTML/CSS/JS(+React).......And Teck Stuf**
 
 - 📫 How to reach me **kunalgumap@gmail.com**
 
-- 🤔 I'm Currently **BEGINEER**
+- 🤔 I'm Currently **Looking for Colobrate on Open Source Projects**
 
 - 😄 Pronouns: He/His
 
@@ -147,6 +147,22 @@
       height="40"
     />
   </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -183,6 +199,31 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://redux.js.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+    
+  <a href="https://heroku.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
       width="40"
       height="40"
     />
