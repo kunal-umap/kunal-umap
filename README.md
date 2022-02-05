@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kunal Umap</h1>
+![twitter](https://user-images.githubusercontent.com/80446986/152638310-dde1d69a-beb4-424c-b57c-4ee3ddaf4720.png)
+
+
+<h1 align="center">Hi 👋, I'm Kunal Umap!
+</h1>
 <h3 align="center">Good Learner Trying To Do Something New!!! </h3>
 
 <p align="left">
@@ -26,30 +30,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/kunal-umap" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
-      alt="@kunal-umap"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/kunalumap1" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-      alt="kunalumap1"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/kunal umap" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-      alt="kunal umap"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://instagram.com/kunal.umap.1306" target="blank"
     ><img
       align="center"
@@ -58,19 +38,14 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/kunalumap0123?hr_r=1" target="blank"
+    <a href="https://twitter.com/kunalumap1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="artimanputra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-umap-58ab36204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arti manputra" height="30" width="40" /></a>
+<a href="https://discord.gg/kunal1306#6340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arti2320#3276" height="30" width="40" /></a>
+   <a href="https://codepen.io/kunal-umap" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"
-      alt="@kunalumap0123"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.hackerearth.com/@kunalgumap" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg"
-      alt="@kunalgumap"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
+      alt="@kunal-umap"
       height="30"
       width="40"
   /></a>
