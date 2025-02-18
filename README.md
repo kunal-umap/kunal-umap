@@ -65,13 +65,16 @@ web
 
 other
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,flask,opencv,tensorflow,dotnet,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,flask,opencv,tensorflow,pytorch,regex,dotnet,solidity,babel,graphql)](https://skillicons.dev)
 
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,postman,appwrite,figma,firebase,codepen,pnpm,latex,git,raspberrypi,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,postman,appwrite,figma,firebase,codepen,pnpm,latex,git,yarn,raspberrypi,kali)](https://skillicons.dev)
 
+<h3 align="left">IDE's Other:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,idea,matlab,notion)](https://skillicons.dev)
 
 <!--
 <p align="left">
