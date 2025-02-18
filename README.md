@@ -51,8 +51,29 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
 
+<h3 align="left">Languages:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,dart)](https://skillicons.dev)
+
+<h3 align="left">Framework & Library:</h3>
+
+web
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ts,redux,js,threejs,html,css,sass,tailwind,webpack,mongodb,nodejs,express,nestjs)](https://skillicons.dev)
+
+other
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,flask,opencv,tensorflow,dotnet,solidity)](https://skillicons.dev)
+
+
+<h3 align="left">Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,postman,appwrite,figma,firebase,codepen,pnpm,latex,git,raspberrypi,kali)](https://skillicons.dev)
+
+
+<!--
 <p align="left">
 
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -221,6 +242,8 @@
   </a>
 
 </p>
+-->
+
 
 <br/><br/>
 <p align="center">
