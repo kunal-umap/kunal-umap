@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kunal Umap!
 </h1>
-<h3 align="center">Good Learner Trying To Do Something New!!! </h3>
+<h3 align="center">Trying To Do Something New!!! </h3>
 
 <p align="left">
   <img
@@ -12,25 +12,27 @@
   />
 </p>
 
-- 🔭 I’m currently working on My Improvement
-
-- 🌱 I’m currently learning **Mearn Stack, Python for ML**
-<!-- 👯 I’m looking to collaborate on .../-->
+- 🌱 I’m currently learning **GenAI.., NLP**
+  
+- 👯 Willing to colobrate on some great idea.
 <!-- 🤔 I’m looking for help with ...-->
 
-- 💬 Ask me about **C/C++,Java,HTML/CSS/JS(+React).......And Teck Stuf**
+- 💬 Ask me about **C/C++,Java, React, Typescript, Node other tech stuff.**
 
-- 📫 How to reach me **kunalgumap@gmail.com**
+<!-- - 📫 How to reach me **kunalgumap@gmail.com** -->
 
-- 🤔 I'm Currently **Looking for Colobrate on Open Source Projects**
+- 🤔 I'm Currently **Highlly Intrested to contribute in carbon-lang.**
 
-- 😄 Pronouns: He/His
 
 - ⚡ Fun fact **I actually don't know what to write here!!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/kunal.umap.1306" target="_blank"
+  
+<a href="https://twitter.com/kunalumap1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalumap1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-umap-58ab36204/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-umap-58ab36204" height="30" width="40" /></a>
+<a href="https://discord.gg/kunal1306#6340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kunal1306#6340" height="30" width="40" /></a>
+<a href="https://instagram.com/kunal.umap.1306" target="_blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
@@ -38,9 +40,6 @@
       height="30"
       width="40"
   /></a>
-    <a href="https://twitter.com/kunalumap1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalumap1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kunal-umap-58ab36204/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-umap-58ab36204" height="30" width="40" /></a>
-<a href="https://discord.gg/kunal1306#6340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kunal1306#6340" height="30" width="40" /></a>
    <a href="https://codepen.io/kunal-umap" target="blank"
     ><img
       align="center"
@@ -49,6 +48,7 @@
       height="30"
       width="40"
   /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
