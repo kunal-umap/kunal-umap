@@ -58,7 +58,7 @@
 
 <h3 align="left">Framework & Library:</h3>
 
-web
+web & backend
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ts,redux,js,threejs,html,css,sass,tailwind,webpack,mongodb,nodejs,express,nestjs)](https://skillicons.dev)
 
