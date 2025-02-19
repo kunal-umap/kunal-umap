@@ -24,7 +24,6 @@
 - 🤔 I'm Currently **Highlly Intrested to contribute in carbon-lang.**
 
 
-- ⚡ Fun fact **I actually don't know what to write here!!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
